@@ -1,2 +1,3 @@
 def print_100():
-    print(100)
+    # this is a wrong version
+    print(300)
